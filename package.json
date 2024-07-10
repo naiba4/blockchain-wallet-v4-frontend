@@ -118,7 +118,7 @@
     "@storybook/addon-essentials": "6.3.6",
     "@storybook/addon-info": "5.3.21",
     "@storybook/addon-links": "6.3.6",
-    "@storybook/cli": "6.3.6",
+    "@storybook/cli": "8.2.0",
     "@storybook/react": "6.3.6",
     "@storybook/storybook-deployer": "2.8.10",
     "@types/applepayjs": "3.0.4",
