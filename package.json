@@ -114,7 +114,7 @@
     "@pmmmwh/react-refresh-webpack-plugin": "0.5.4",
     "@react-theming/storybook-addon": "1.1.1",
     "@reduxjs/toolkit": "1.6.0",
-    "@storybook/addon-actions": "6.3.6",
+    "@storybook/addon-actions": "6.5.10",
     "@storybook/addon-essentials": "6.3.6",
     "@storybook/addon-info": "5.3.21",
     "@storybook/addon-links": "6.3.6",
